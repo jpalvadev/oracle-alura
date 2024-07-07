@@ -8,4 +8,8 @@ Este repositorio está dedicado al almacenamiento y organización de todo el mat
 
 ## Contenido
 
-Por ahora, el contenido de este repositorio abarca temas y ejercicios correspondientes a la sección "Principiante en Programación".
+Se han completado los cursos:
+
+-   Lógica de Programación
+-   HTML - CSS
+-   Git - Github
